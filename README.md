@@ -10,6 +10,10 @@ For Deployment Automation Purposes, the app is split into two seperate repos.
 
 This is the documentation of the app
 
+## Wireframes
+
+[Figma](https://www.figma.com/file/XYYcpsR2WR0KmKYquInVaG/WICS?node-id=6%3A36)
+
 ## App Features
 
 | Service                   | Feature     | Desc |
