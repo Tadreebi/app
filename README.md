@@ -12,7 +12,7 @@ This is the documentation of the app
 
 ## Wireframes
 
-[Figma](https://www.figma.com/file/XYYcpsR2WR0KmKYquInVaG/WICS?node-id=6%3A36)
+[Figma](https://www.figma.com/file/XYYcpsR2WR0KmKYquInVaG/Tadreebi)
 
 ## App Features
 
@@ -22,6 +22,7 @@ This is the documentation of the app
 | Internship opportunities posting, browsing & applying |  Posting    | To let the companies post internship opportunities (responsibilities, requirementsm, benefits, post-internship opportunity) |
 | ^^^^^^^^^^^^^^^^^^^^^^^^^ | Browsing    | Browse the opportunities' posts |
 | ^^^^^^^^^^^^^^^^^^^^^^^^^ | Filter opportunities | Filter according to the feild or skills |
+| ^^^^^^^^^^^^^^^^^^^^^^^^^ | Applying    | Students to apply to the offered opportunities |
 | ^^^^^^^^^^^^^^^^^^^^^^^^^ | Rating  | Students' rating for the hiring firms after finishing an internship |
 | Student-University Proposal & Reporting               | Proposing  | Students to submit and uni to approve proposed internship vacancies to fulfill |
 | ^^^^^^^^^^^^^^^^^^^^^^^^^ | Reporting | Submissions of students’ weekly, monthly and final reports |
