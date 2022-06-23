@@ -22,7 +22,7 @@ This is the documentation of the app
 | Internship opportunities posting, browsing & applying |  Posting    | To let the companies post internship opportunities (responsibilities, requirementsm, benefits, post-internship opportunity) |
 | ^^^^^^^^^^^^^^^^^^^^^^^^^ | Browsing    | Browse the opportunities' posts |
 | ^^^^^^^^^^^^^^^^^^^^^^^^^ | Filter opportunities | Filter according to the feild or skills |
-| ^^^^^^^^^^^^^^^^^^^^^^^^^ | Applying    | Students to apply to the offered opportunities |
+| ^^^^^^^^^^^^^^^^^^^^^^^^^ | Applying    | Students to apply to the offered opportunities & companies to review applications n response |
 | ^^^^^^^^^^^^^^^^^^^^^^^^^ | Rating  | Students' rating for the hiring firms after finishing an internship |
 | Student-University Proposal & Reporting               | Proposing  | Students to submit and uni to approve proposed internship vacancies to fulfill |
 | ^^^^^^^^^^^^^^^^^^^^^^^^^ | Reporting | Submissions of students’ weekly, monthly and final reports |
