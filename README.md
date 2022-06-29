@@ -12,7 +12,11 @@ This is the documentation of the app
 
 ## Wireframes
 
-[Figma](https://www.figma.com/file/XYYcpsR2WR0KmKYquInVaG/Tadreebi)
+[Figma](https://www.figma.com/file/XYYcpsR2WR0KmKYquInVaG/Tadreebi?node-id=14%3A2)
+
+## Diagrams
+
+[Figma](https://www.figma.com/file/XYYcpsR2WR0KmKYquInVaG/Tadreebi?node-id=0%3A1)
 
 ## App Features
 
